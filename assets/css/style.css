@@ -1,0 +1,48 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	background: rgb(197, 197, 197);
+}
+.titulo {
+	text-align: center;
+	font-size: 2.5rem;
+	padding: 10px 0;
+}
+.barra {
+	background-color: gray;
+	color: #fff;
+	margin: 15px 0;
+	font-size: 1.4rem;
+	padding: 2px 10px;
+	font-weight: bold;
+	margin-right: 100px;
+	margin-left: 100px;
+}
+.bloques {
+	display: flex;
+	flex-direction: row;
+	padding: 45px 70px;
+	margin: 0 150px;
+}
+.imagen {
+	width: 90px;
+	height: 100px;
+	padding: 0 10px;
+}
+.parrafo {
+	text-indent: 50px;
+	font-size: 0.9rem;
+	text-align: justify;
+	width: 700px;
+	height: 100px;
+}
+.rojo {
+	color: red;
+	font-style: italic;
+}
+.blanco {
+	color: black;
+	background-color: white;
+	font-weight: bolder;
+}
